@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework 251 - lorenbak</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo_NOLOGO.png">logo-NOLOGO.png</string>
+    <string name="txtEmailHint">Email Address</string>
+    <string name="txtPasswordHint">Password</string>
+    <string name="btnSignInText">Sign In</string>
+    <string name="ckShowPassword">Show</string>
+    <string name="error_password_to_short">Password must be at least 8 characters.</string>
+    <string name="error_password_has_no_numbers">Password must have at least 1 number.</string>
+    <string name="error_password_has_no_lower_case_letters">Password must have at least 1 lower case character.</string>
+    <string name="error_password_has_no_uppper_case_letters">Password must have at least 1 upper case character.</string>
+    <string name="error_invalid_email_address">The email address is not valid.</string>
+    <string name="email_result">Email: somebody@gmail.com</string>
+    <string name="password_result">Password: coolPasswood123</string>
+
+</resources>
